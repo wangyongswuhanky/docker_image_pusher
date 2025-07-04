@@ -3,3 +3,4 @@ milvusdb/milvus:v2.4.12
 prom/prometheus:latest
 prom/node-exporter:latest
 grafana/grafana:latest
+prom/alertmanager:latest
