@@ -8,3 +8,4 @@ prom/alertmanager:v0.24.0
 ollama/ollama:latest
 postgres:latest
 neo4j:latest
+postgres:latest
