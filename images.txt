@@ -9,3 +9,4 @@ ollama/ollama:latest
 postgres:latest
 neo4j:latest
 postgres:latest
+postgres:15
