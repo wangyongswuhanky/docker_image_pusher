@@ -6,3 +6,4 @@ grafana/grafana:latest
 prom/alertmanager:latest
 prom/alertmanager:v0.24.0
 promalert-feishu-webhook:latest
+ollama/ollama:latest
