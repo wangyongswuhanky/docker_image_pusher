@@ -7,4 +7,4 @@ prom/alertmanager:latest
 prom/alertmanager:v0.24.0
 ollama/ollama:latest
 postgres:latest
-goharbor/prepare:v2.13.1
+neo4j:latest
