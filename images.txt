@@ -12,4 +12,4 @@ postgres:latest
 postgres:15
 python:3.12
 eclipse-temurin:8-jdk
-nacos/nacos-server:2.0.4
+nacos/nacos-server:2.5.0
