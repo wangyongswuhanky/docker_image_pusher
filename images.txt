@@ -11,3 +11,4 @@ neo4j:latest
 postgres:latest
 postgres:15
 python:3.12
+jdk8/centos:latest
