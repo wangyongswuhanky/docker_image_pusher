@@ -13,3 +13,4 @@ postgres:15
 python:3.12
 eclipse-temurin:8-jdk
 nacos/nacos-server:v2.5.0
+eclipse-temurin:8-jre
