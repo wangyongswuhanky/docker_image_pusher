@@ -16,3 +16,4 @@ nacos/nacos-server:v2.5.0
 eclipse-temurin:8-jre
 prom/node-exporter
 ubuntu:24.04
+ubuntu:22.04
