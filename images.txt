@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:main
+milvusdb/milvus:v2.6.0
