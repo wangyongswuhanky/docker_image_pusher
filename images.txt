@@ -1,3 +1,4 @@
-oven/bun:slim
+oven/bun:distroless
+
 
 
