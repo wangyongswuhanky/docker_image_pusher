@@ -1,1 +1,4 @@
-oven/bun:baseline
+oven/bun:debian
+oven/bun:slim
+oven/bun:distroless
+oven/bun:alpine
