@@ -1,4 +1,4 @@
-oven/bun:distroless
+oven/bun:alpine
 
 
 
