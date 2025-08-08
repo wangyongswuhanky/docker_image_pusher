@@ -1,4 +1,5 @@
-oven/bun:alpine
+oven/bun:canary-debian
+
 
 
 
