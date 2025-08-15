@@ -1,4 +1,5 @@
-oven/bun:canary-debian
+rustdesk/rustdesk-server:latest
+rustdesk/rustdesk-server:latest
 
 
 
