@@ -1,4 +1,5 @@
-milvusdb/milvus:v2.3.8
+zilliz/attu:latest
+
 
 
 
