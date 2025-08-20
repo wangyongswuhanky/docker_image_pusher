@@ -1,4 +1,4 @@
-zilliz/attu:latest
+ollama/ollama:latest
 
 
 
