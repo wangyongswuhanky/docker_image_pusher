@@ -1,4 +1,4 @@
-ollama/ollama:latest
+vllm/vllm-openai:latest
 
 
 
