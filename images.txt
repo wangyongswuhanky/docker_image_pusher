@@ -1,4 +1,4 @@
-vllm/vllm-openai:latest
+gitlab/gitlab-ce:latest
 
 
 
