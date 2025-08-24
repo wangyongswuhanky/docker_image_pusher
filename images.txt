@@ -1,4 +1,4 @@
-gitlab/gitlab-ce:latest
+jenkins/jenkins:lts
 
 
 
