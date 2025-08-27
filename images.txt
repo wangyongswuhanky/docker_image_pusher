@@ -1,4 +1,5 @@
-ubuntu/python:3.12-24.04_stable
+ubuntu/python:3.12-24.04_edge
+
 
 
 
