@@ -1,4 +1,4 @@
-prom/jmx-exporter:latest
+sscaling/jmx-prometheus-exporter:0.3.0
 
 
 
