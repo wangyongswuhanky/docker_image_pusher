@@ -1,4 +1,4 @@
-bitnami/jmx-prometheus-exporter:latest
+prom/jmx-exporter:latest
 
 
 
