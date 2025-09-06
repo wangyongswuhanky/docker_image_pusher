@@ -1,4 +1,4 @@
-neo4j-contrib/neo4j-prometheus-exporter:latest
+bitnami/jmx-prometheus-exporter:latest
 
 
 
