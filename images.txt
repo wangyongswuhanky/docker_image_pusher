@@ -1,4 +1,4 @@
-sscaling/jmx-prometheus-exporter:0.3.0
+prom/blackbox-exporter
 
 
 
