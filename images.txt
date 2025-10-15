@@ -1,4 +1,4 @@
-pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
+python:3.13-slim AS base
 
 
 
