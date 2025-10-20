@@ -1,4 +1,4 @@
-python:3.13-slim
+apachepulsar/pulsar:2.11.0
 
 
 
