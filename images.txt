@@ -1,4 +1,4 @@
-milvusdb/milvus:v3.0-beta-gpu
+milvusdb/milvus:v2.6.0-gpu
 
 
 
