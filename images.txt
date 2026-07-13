@@ -1,4 +1,4 @@
-milvusdb/milvus:v2.6.0-gpu
+vllm/vllm-openai:latest
 
 
 
